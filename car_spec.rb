@@ -4,7 +4,7 @@ describe Car do
   it "It must return range" do
     # arrange
 
-    car = car.new
+    car = Car.new
 
     # act
 
